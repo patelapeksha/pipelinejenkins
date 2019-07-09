@@ -18,4 +18,5 @@ node{
       Thanks
       Apeksha''', cc: '', from: '', replyTo: '', subject: 'Jenkins Job', to: 'apyepatel95@gmail.com'
    }
+}
    
